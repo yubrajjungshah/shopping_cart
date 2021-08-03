@@ -2,3 +2,6 @@
     justify-content: center;
     
 }
+.navbar-right {
+    float: right;
+}
